@@ -48,4 +48,4 @@ def delete_file(file_hash):
 
 
 if __name__ == "__main__":
-    api.run(debug=True, port=5001)
+    api.run()
